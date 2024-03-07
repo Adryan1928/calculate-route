@@ -15,3 +15,18 @@ export const ContainerSeacher = styled.View`
     align-items: center;
     padding: 16px;
 `
+
+export const ButtonPay = styled.TouchableOpacity`
+    background-color: black;
+    padding: 6;
+    border-radius: 4;
+    margin-top: 30;
+    justify-content: center;
+    align-items: center;
+`
+
+export const TextPay = styled.Text`
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+`
